@@ -24,7 +24,7 @@ class WebViewController: UIViewController {
         super.viewDidLoad()
 
         if #available(iOS 16.4, *) {
-            webView.isInspectable = true
+            //webView.isInspectable = true
         }
 
         // So we can capture failures in "didFailProvisionalNavigation".
