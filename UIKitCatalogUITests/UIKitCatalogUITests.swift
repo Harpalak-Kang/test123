@@ -19,7 +19,7 @@ import XCTest
      func testsetup1() throws {
         
          var num:Int
-         num = 100
+         num = 200
          print(num)
      
              }
